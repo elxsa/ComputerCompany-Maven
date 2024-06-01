@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Nexus Gaming PC",
+    "category": "DESKTOP_PC",
+    "price": 2200.0,
+    "description": "PC Gaming sponsorizat de echipa Nexus Romania.",
+    "rating": 5,
+    "isPart": false
+  },
+  {
+    "name": "Asus Strix PRO",
+    "category": "LAPTOP_PC",
+    "price": 1800.0,
+    "description": "Laptop gaming din seria produselor de top.",
+    "rating": 4,
+    "isPart": false
+  },
+  {
+    "name": "Imprimantă Laser Pro",
+    "category": "IMPRIMANTE",
+    "price": 300.0,
+    "description": "Imprimantă laser profesională.",
+    "rating": 4,
+    "isPart": false
+  },
+  {
+    "name": "Casti HyperX",
+    "category": "PERIFERICE",
+    "price": 50.0,
+    "description": "Casti gaming performanta profesionala.",
+    "rating": 5,
+    "isPart": false
+  },
+  {
+    "name": "Procesor Ryzen 5800X",
+    "category": "COMPONENTE_PRE",
+    "price": 400.0,
+    "description": "Procesoarele din seria Ryzen 5000 sunt compatibile doar cu placile de baza cu chipset A520/B550/X570",
+    "rating": 5,
+    "isPart": true
+  },
+  {
+    "name": "Tastatură Logitech 920",
+    "category": "PERIFERICE",
+    "price": 120.0,
+    "description": "Tastatura red switches logitech gama 920.",
+    "rating": 4,
+    "isPart": false
+  },
+  {
+    "name": "RTX 4080",
+    "category": "COMPONENTE_PRE",
+    "price": 1200.0,
+    "description": "Placa video pentru rezolutie 4k 144fps care incorporeaza functia dlss.",
+    "rating": 5,
+    "isPart": true
+  },
+  {
+    "name": "HP Desktop PC",
+    "category": "DESKTOP_PC",
+    "price": 1500.0,
+    "description": "Pc pentru munca la birou.",
+    "rating": 4,
+    "isPart": false
+  },
+  {
+    "name": "SSD Kingstone",
+    "category": "COMPONENTE_PRE",
+    "price": 250.0,
+    "description": "SSD cu capacitate de stocare de 500GB.",
+    "rating": 5,
+    "isPart": true
+  },
+  {
+    "name": "Corsair DDR5 RAM",
+    "category": "COMPONENTE_PRE",
+    "price": 600.0,
+    "description": "Kit 16gb DDR5 viteza rapida",
+    "rating": 4,
+    "isPart": true
+  },
+  {
+    "name": "Monitor Alienware 39inch",
+    "category": "PERIFERICE",
+    "price": 5000.0,
+    "description": "Monitor extra ultrawide 39inch rezolutie foarte inalta.",
+    "rating": 5,
+    "isPart": false
+  },
+  {
+    "name": "Test produs",
+    "category": "DESKTOP_PC",
+    "price": 1000.0,
+    "description": "Test descriere",
+    "rating": 5,
+    "isPart": false
+  },
+  {
+    "name": "Test produs",
+    "category": "DESKTOP_PC",
+    "price": 1000.0,
+    "description": "Test descriere",
+    "rating": 5,
+    "isPart": false
+  }
+]
